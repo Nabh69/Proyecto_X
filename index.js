@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Gracias por decir que si, Te amo mucho mi niña <3')
+    alert('YA SABÍA GOLOS@')
 });
 
 const noBtn = document.querySelector('#noBtn');
